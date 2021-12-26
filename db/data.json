@@ -1,0 +1,16 @@
+{
+  "posts": [
+    {
+      "title": "My new website",
+      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec sit amet sem ultricies, ullamcorper neque ac, pharetra arcu. Fusce iaculis tortor ac velit porttitor euismod. Vivamus tincidunt dolor bibendum, dapibus tellus in, tincidunt felis. Sed tempor convallis facilisis. Cras pulvinar dignissim vehicula. In fermentum nisi et enim viverra tempor sed non nulla. Duis blandit gravida erat eget convallis.",
+      "author": "mario",
+      "id": 1
+    },
+    {
+      "title": "Web dev top tips",
+      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec sit amet sem ultricies, ullamcorper neque ac, pharetra arcu. Fusce iaculis tortor ac velit porttitor euismod. Vivamus tincidunt dolor bibendum, dapibus tellus in, tincidunt felis. Sed tempor convallis facilisis. Cras pulvinar dignissim vehicula. In fermentum nisi et enim viverra tempor sed non nulla. Duis blandit gravida erat eget convallis.",
+      "author": "mario",
+      "id": 3
+    }
+  ]
+}

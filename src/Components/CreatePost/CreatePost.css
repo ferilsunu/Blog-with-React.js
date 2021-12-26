@@ -1,0 +1,28 @@
+.create-post form input,textarea,select,button{
+    display: block;
+    margin-bottom: 20px;
+    resize: none;
+
+}
+
+.create-post form input,textarea{
+    border: none;
+    padding: 12px;
+    border-radius: 5px;
+
+}
+
+.create-post form select{
+    padding: 10px;
+}
+
+.create-post button{
+    background-color: #064789;
+    color: white;
+    border: none;
+    padding: 8px 13px;
+    border-radius: 5px;
+    cursor: pointer;
+
+
+}
